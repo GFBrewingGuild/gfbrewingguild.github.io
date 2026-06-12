@@ -9,15 +9,10 @@ permalink: /resources/gluten-reduced-beer/
 
 # Gluten-Reduced Beer
 
-## Summary for consumers, retailers, distributors, and hospitality teams
+## Note to consumers, distributors, retailers and hospitality managers
+Gluten reduced beer made from barley, wheat, and/or rye is ''not'' gluten free. Misrepresenting the two as equivalent puts the health of celiac consumers at risk and potentially violates labeling and advertising laws in your country. 
 
-Gluten-reduced beer made from barley, wheat, rye, or related gluten-containing grains is **not the same thing as naturally gluten-free beer**.
-
-For people with celiac disease or medical reasons to avoid gluten, this distinction matters. Beers made from gluten-containing grains and treated with enzymes to reduce measurable gluten may still contain gluten protein fragments that are difficult to detect reliably with common tests.
-
-GFBG recommends that beer labeled, marketed, shelved, or served as gluten-free should be made from **100% naturally gluten-free ingredients**.
-
-Examples of naturally gluten-free brewing grains and ingredients include millet, buckwheat, rice, sorghum, maize, quinoa, and certified gluten-free oats where legally permitted and appropriate.
+Gluten reduced (aka gluten "removed") beers can still cause short and long term damage for people with celiac disease. Further scientific review indicates that testing for residual gluten in these beers (the <20ppm reference) looks at a narrow band of proteins and is an inaccurate and unreliable indicator of their actual gluten content. The types and amount of remaining intact protein chains can vary widely between barley lots and individual beers. Individuals respond uniquely to those remaining protein chains. Gluten free beer sold in the US, Canada, Australia, New Zealand and Argentina can only be made from naturally gluten free grains and celiac societies in those countries have made clear that individuals with celiac disease should avoid gluten reduced beers made from barley and other gluten containing grains. See list of breweries for beers in your region that are safe for those with medical reasons to avoid gluten. Shelf and menu labeling that equates gluten reduced with gluten free is false advertising that puts the health of customers at risk.
 
 ## Key terms
 
