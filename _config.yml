@@ -9,5 +9,6 @@ search_enabled: true
 aux_links:
   "Join the Discord":
     - "https://discord.gg/6TTprwJPbp"
-
+  "Open Discord":
+    - "https://bit.ly/GFBrewGuild"
 footer_content: "Copyright © Gluten Free Brewing Guild. All rights reserved."
