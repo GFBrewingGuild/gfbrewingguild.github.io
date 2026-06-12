@@ -1,3 +1,9 @@
+---
+title: Home
+layout: home
+nav_order: 1
+---
+
 # Gluten Free Brewing Guild
 
 The Gluten Free Brewing Guild is a community-led space for consumers, homebrewers, and professional brewers who are engaged or interested in 100% naturally gluten-free beer.
