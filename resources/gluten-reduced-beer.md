@@ -1,11 +1,10 @@
 ---
-
 layout: default
 title: Gluten-Reduced Beer
 parent: Resources
 nav_order: 5
 permalink: /resources/gluten-reduced-beer/
-------------------------------------------
+---
 
 # Gluten-Reduced Beer
 
