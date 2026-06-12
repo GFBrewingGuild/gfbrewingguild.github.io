@@ -3,7 +3,7 @@ layout: default
 title: About GFBG
 nav_order: 2
 permalink: /about/
-------------
+---
 
 # About the Gluten Free Brewing Guild
 
