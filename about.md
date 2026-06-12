@@ -1,5 +1,4 @@
 ---
-
 title: About GFBG
 nav_order: 2
 ------------
