@@ -1,5 +1,4 @@
 ---
-
 title: Resources
 nav_order: 3
 ------------
