@@ -1,0 +1,13 @@
+title: Gluten Free Brewing Guild
+description: Resources for 100% naturally gluten-free beer and brewing
+remote_theme: just-the-docs/just-the-docs
+
+url: "https://gfbrewingguild.github.io"
+
+search_enabled: true
+
+aux_links:
+  "Join the Discord":
+    - "https://discord.gg/6TTprwJPbp"
+
+footer_content: "Copyright © Gluten Free Brewing Guild. All rights reserved."
