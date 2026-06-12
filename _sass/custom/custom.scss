@@ -1,0 +1,15 @@
+.site-title {
+  display: flex;
+  align-items: center;
+  gap: 0.6rem;
+}
+
+.site-logo {
+  width: 42px;
+  height: auto;
+  display: block;
+}
+
+.site-title-text {
+  line-height: 1.15;
+}
