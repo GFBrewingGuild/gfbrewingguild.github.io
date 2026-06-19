@@ -1,7 +1,7 @@
 ---
 layout: default
 title: List of GF Breweries
-parent: Consumer
+parent: Consumers
 nav_order: 1
 permalink: /consumers/breweries/
 ---
