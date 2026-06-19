@@ -29,3 +29,21 @@
   line-height: 1.15;
   font-weight: 500;
 }
+
+th {
+  cursor: pointer;
+}
+
+th::after {
+  content: " ↕";
+  font-size: 0.8em;
+  opacity: 0.5;
+}
+
+th[data-sort-direction="asc"]::after {
+  content: " ↑";
+}
+
+th[data-sort-direction="desc"]::after {
+  content: " ↓";
+}
