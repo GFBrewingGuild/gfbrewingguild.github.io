@@ -1,3 +1,10 @@
+---
+layout: default
+title: Breweries
+parent: Consumer
+nav_order: 1
+permalink: /consumer/Breweries
+---
 The following list of breweries are focused on making gluten-free beer (versus "mixed-use" breweries that primarily brew gluten-containing beers with a gluten free offering or two). For the most part these are dedicated gluten free facilities with no risk of gluten cross contamination.
 
 '''See also:'''
