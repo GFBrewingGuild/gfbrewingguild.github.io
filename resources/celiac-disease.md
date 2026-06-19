@@ -2,7 +2,7 @@
 layout: default
 title: Celiac Disease
 parent: Resources
-nav_order: 2
+nav_order: 3
 permalink: /resources/celiac-disease/
 ---
 
